@@ -1,6 +1,13 @@
 .App {
   text-align: center;
 }
+th,td{
+  border:1px solid grey;
+
+}
+table{
+  border-collapse: collapse;
+}
 
 .App-logo {
   height: 40vmin;
